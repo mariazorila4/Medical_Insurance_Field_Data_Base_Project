@@ -18,7 +18,7 @@ The project was developed using SQL and includes tables, relationships, and cons
 - **Payments and Reports:** Monitoring payments and generating financial reports required for legal compliance.  
 
 ### Schema Diagram  
-You can view the updated database schema diagram in the main folder of this repository: **Medical_Insurance_Field_ERD_diagram.png**  
+You can view the updated database schema diagram in the main folder of this repository: **Medical_Insurance_Field_ERD_diagram.png** or **Medical_Insurance_Field_ERD_diagram.pdf**  
 
 ## Technologies Used  
 - **Database:** SQL (compatible with MySQL, PostgreSQL, SQL Server)  
