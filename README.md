@@ -1,5 +1,13 @@
 # Medical_Insurance_Field_Data_Base_Project
 
+<p align="center">
+  <img src="Medical_Insurance_Field_Data_Base_Project app logo.jpg" alt="Logo" width="600">
+</p>
+<p align="center">
+  <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
+  If this image presents an issue, please feel free to contact me.</em>
+</p>
+
 ## Project Overview  
 This project involves the development of a relational database designed for managing information within a medical insurance company. The database will support the company’s internal processes, including client management, insurance policies, healthcare service providers, claims, and payments. Additionally, it will facilitate the generation of reports for legal compliance and financial monitoring.  
 
